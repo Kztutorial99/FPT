@@ -48,14 +48,13 @@ To install the necessary dependencies, follow these steps:
     ```
 
 Make sure to execute these commands in your terminal to set up the environment correctly.
-
 ## Run Script
 
-```bash
+``bash
 git clone https://github.com/Kztutorial99/FTP
-python app.py```
+python app.py``
 
-### Localhost Run Di BrowserExe: http://localhost:8080
+## Localhost Run Di BrowserExe: http://localhost:8090
 
 Serveo Run Di TerminalExe:
 ```ssh -R 80:127.0.0.1:8090```
