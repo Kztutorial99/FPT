@@ -1,5 +1,4 @@
-# FPT 
-# (Facebook Phishing Tool)
+# FPT (Facebook Phishing Tool)
 
 ## ⚠️ Disclaimer
 
