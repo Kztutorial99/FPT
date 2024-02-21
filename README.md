@@ -1,4 +1,4 @@
-# FPT (🧑‍💻Facebook Phishing Tool🧑‍💻)
+# FPT (Facebook Phishing Tool)
 
 ## ⚠️ Disclaimer
 
@@ -55,11 +55,13 @@ git clone https://github.com/Kztutorial99/FTP
 python app.py``
 
 ## Localhost Run Di Browser
-Exe:``http://localhost:8090``
+Exe:
+``http://localhost:8090``
 
-Serveo Run Di Terminal
-Exe: ``ssh -R 80:127.0.0.1:8090``
+## Serveo Run Di Terminal
+Exe:
+``ssh -R 80:127.0.0.1:8090``
 
 
 # Catatan
-` ❌ Dilarang Memodifikasi Isi Kode Di Dalam Secript Tanpa Izin Dari Pembuat.`
+❌ Dilarang Memodifikasi Isi Kode Di Dalam Secript Tanpa Izin Dari Pembuat.
