@@ -7,7 +7,7 @@ This tool is made for educational purposes only. Do not attempt to violate the l
 It only demonstrates "how phishing works". You shall not misuse the information to gain unauthorized access to someone's social media. However, you may try out this at your own risk. Any actions and/or activities related to (FPT) are solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 ## Preview
-![Deskripsi foto](link_gambar.jpg)
+![Deskripsi foto](https://github.com/Kztutorial99/FPT/blob/main/preview.jpg)
 
 ## Cara Penggunaan
 
