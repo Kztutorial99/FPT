@@ -6,13 +6,6 @@ def update():
     os.system("clear")
     print("\033[1m\033[97m[•] Melakukan update ...\033[97m")
     os.system("git pull")
-
-    # Check if the update was successful
-    if os.system("git status | grep 'Your branch is up to date'") == 0:
-        print("\033[1m\033[92m[✓] Update berhasil!\033[97m")
-    else:
-        print("\033[1m\033[91m[x] Update gagal!\033[97m")
-
     time.sleep(2)
     input("\n\033[1m\033[97m[•] Tekan Enter untuk melanjutkan...")
     os.system("clear")
