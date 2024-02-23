@@ -3,10 +3,12 @@ import time
 import json
 
 def update():
-    print("\033[1m[•]\033[92m Melakukan update ...\033[97m")
+    os.system("clear")
+    print("\033[1m\033[97m[•]\033[92m Melakukan update ...\033[97m")
     os.system("git pull")
     time.sleep(2)
     os.system("clear")
+    update()
     
 def delete_data():
     try:
