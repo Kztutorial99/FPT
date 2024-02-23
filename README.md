@@ -75,8 +75,10 @@ Exe:
 
 ## Preview
 ![Deskripsi foto](https://github.com/Kztutorial99/FPT/blob/main/serveo.jpg)
-Copy Serveo URL jalankan di browser 
-httpps://google.com
+
+## Serveo URL Run Di Browser
+Exe:
+http://google.com
 
 # Catatan
 ❌ Dilarang Memodifikasi Isi Kode Di Dalam Secript Tanpa Izin Dari Pembuat.
