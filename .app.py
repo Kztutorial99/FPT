@@ -1,7 +1,7 @@
 # Catatan: 
 # Dilarang Melakukan Modifikasi Secript
 # Tanpa Izin Dari Pembuat !!!
-
+# **
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 import os
 import time
