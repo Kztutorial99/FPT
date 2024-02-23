@@ -126,7 +126,7 @@ def input_key():
         # Lanjutkan dengan bagian program lainnya di sini
         time.sleep(2)
         os.system("clear")
-        os.system("python .app.py")
+        os.system("python .app.pyc")
 
 def menu_utama():
     menu_dict = {
