@@ -67,7 +67,7 @@ Make sure to execute these commands in your terminal to set up the environment c
 
 ## Localhost Run Di Browser
 Exe:
-``http://localhost:8090``
+http://localhost:8090
 
 ## Serveo Run Di Terminal
 Exe:
@@ -75,6 +75,8 @@ Exe:
 
 ## Preview
 ![Deskripsi foto](https://github.com/Kztutorial99/FPT/blob/main/serveo.jpg)
+Copy Serveo URL jalankan di browser 
+httpps://google.com
 
 # Catatan
 ❌ Dilarang Memodifikasi Isi Kode Di Dalam Secript Tanpa Izin Dari Pembuat.
