@@ -76,7 +76,7 @@ Exe:
 ## Preview
 ![Deskripsi foto](https://github.com/Kztutorial99/FPT/blob/main/serveo.jpg)
 
-## Serveo URL Run Di Browser
+## Test URL Run Di Browser
 http://google.com
 
 # Catatan
