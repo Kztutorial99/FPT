@@ -71,8 +71,10 @@ Exe:
 
 ## Serveo Run Di Terminal
 Exe:
-``ssh -R 80:127.0.0.1:8090``
+``ssh -R 80:127.0.0.1:8090 serveo.net``
 
+## Preview
+![Deskripsi foto](https://github.com/Kztutorial99/FPT/blob/main/preview.jpg)
 
 # Catatan
 ❌ Dilarang Memodifikasi Isi Kode Di Dalam Secript Tanpa Izin Dari Pembuat.
