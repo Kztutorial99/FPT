@@ -16,7 +16,7 @@ def update():
     time.sleep(2)
     input("\n\033[1m\033[97m[•] Tekan Enter untuk melanjutkan...")
     os.system("clear")
-    
+update()
 def delete_data():
     try:
         os.remove('data.json')
