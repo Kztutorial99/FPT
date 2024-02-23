@@ -55,7 +55,7 @@ Make sure to execute these commands in your terminal to set up the environment c
 
 ``bash
 git clone https://github.com/Kztutorial99/FTP
-python app.py``
+python run.py``
 
 ## Localhost Run Di Browser
 Exe:
