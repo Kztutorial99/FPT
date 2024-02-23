@@ -1,7 +1,7 @@
 import os
 import time
 import json
-
+ 
 def update():
     os.system("clear")
     print("\033[1m\033[97m[•] Melakukan update ...\033[97m")
