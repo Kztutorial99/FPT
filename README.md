@@ -31,20 +31,26 @@ To install the necessary dependencies, follow these steps:
     ```bash
     pkg install python -y
     ```
-
+    
 3. Install OpenSSH:
+
+    ```bash
+    pkg install git -y
+    ```
+    
+4. Install OpenSSH:
 
     ```bash
     pkg install openssh -y
     ```
 
-4. Install Flask:
+5. Install Flask:
 
     ```bash
     pip install flask
     ```
 
-5. Install Requests:
+6. Install Requests:
 
     ```bash
     pip install requests
@@ -53,9 +59,11 @@ To install the necessary dependencies, follow these steps:
 Make sure to execute these commands in your terminal to set up the environment correctly.
 ## Run Script
 
-``bash
-git clone https://github.com/Kztutorial99/FTP
-python run.py``
+``git clone https://github.com/Kztutorial99/FTP``
+
+``cd FPT``
+
+``python run.py``
 
 ## Localhost Run Di Browser
 Exe:
