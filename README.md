@@ -34,8 +34,10 @@ To install the necessary dependencies, follow these steps:
     
 4. Install Python2:
 
-    ``` pkg install python2```
-     
+    ```bash
+    pkg install python2 -y
+    ```
+    
 5. Install OpenSSH:
 
     ```bash
