@@ -43,7 +43,7 @@ To install the necessary dependencies, follow these steps:
     ```bash
     pkg install openssh -y
     ```
-
+    
 5. Install Flask:
 
     ```bash
@@ -59,7 +59,7 @@ To install the necessary dependencies, follow these steps:
 Make sure to execute these commands in your terminal to set up the environment correctly.
 ## Run Script
 
-``git clone https://github.com/Kztutorial99/FTP``
+``git clone https://github.com/Kztutorial99/FPT``
 
 ``cd FPT``
 
