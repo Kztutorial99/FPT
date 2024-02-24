@@ -63,6 +63,8 @@ Make sure to execute these commands in your terminal to set up the environment c
 
 ``cd FPT``
 
+``git pull``
+
 ``python run.py``
 
 ## Localhost Run Di Browser
