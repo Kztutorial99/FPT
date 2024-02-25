@@ -32,31 +32,31 @@ To install the necessary dependencies, follow these steps:
     pkg install python -y
     ```
     
-4. Install Python2:
+3. Install Python2:
 
     ```bash
     pkg install python2 -y
     ```
     
-5. Install OpenSSH:
+4. Install git:
 
     ```bash
     pkg install git -y
     ```
     
-6. Install OpenSSH:
+5. Install OpenSSH:
 
     ```bash
     pkg install openssh -y
     ```
     
-7. Install Flask:
+6. Install Flask:
 
     ```bash
     pip install flask
     ```
 
-8. Install Requests:
+7. Install Requests:
 
     ```bash
     pip install requests
