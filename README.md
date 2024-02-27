@@ -88,4 +88,4 @@ Exe:
 http://google.com
 
 # Catatan
-❌ Dilarang Memodifikasi Isi Kode Di Dalam Secript Tanpa Izin Dari Pembuat.
+❌ Janggan di salah gunakan !!!
