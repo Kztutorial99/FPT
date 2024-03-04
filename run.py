@@ -1,4 +1,5 @@
 import os
+import sys
 import time
 import json
 import webbrowser
@@ -235,12 +236,13 @@ def display_menu():
     print("\033[1m\033[97m╔══════════════════════════════╗╔════════════════════════╗")
     print("║             \033[95mMENU\033[97m             ║║         \033[95mINFO\033[97m           ║")
     print("╟──────────────────────────────╢╟────────────────────────╢\033[97m")
-    print("║\033[97m   [1]\033[92m Jalankan Secript FPT   \033[97m║║  Versi  :\033[92m FPT\033[91m V1.0     \033[97m║")
-    print("║\033[97m   [2]\033[92m Check Hasil Yang Masuk \033[97m║║  Creator:\033[92m Kz.tutorial  \033[97m║")
-    print("║\033[97m   [3]\033[92m Hapus Hasil Yang Masuk \033[97m║║  Githube:\033[92m Kztutorial99 \033[97m║")
-    print("║\033[97m   [4]\033[92m Hubungi Pembuat        \033[97m║║                        ║")
-    print(f"║\033[97m   [5]\033[92m Update Secript         \033[97m║║  Tanggal: \033[96m{current_date}\033[97m   ║")
-    print(f"║\033[97m   [6]\033[92m Keluar                 \033[97m║║  Jam: \033[96m{current_time}\033[97m\033[93m {waktu}\033[97m   ║")
+    print("║\033[97m   [1]\033[92m Run FPT (\033[97mLoccalHost\033[92m)   \033[97m║║  Versi  :\033[92m FPT\033[91m V1.0     \033[97m║")
+    print("║\033[97m   [2]\033[92m Run FPT (\033[97mServeo\033[92m)       \033[97m║║  Creator:\033[92m Kz.tutorial  \033[97m║")
+    print("║\033[97m   [3]\033[92m Check Hasil Yang Masuk \033[97m║║  Githube:\033[92m Kztutorial99 \033[97m║")
+    print("║\033[97m   [4]\033[92m Hapus Hasil Yang Masuk \033[97m║║                        ║")
+    print("║\033[97m   [5]\033[92m Hubungi Pembuat        \033[97m║║                        ║")
+    print(f"║\033[97m   [6]\033[92m Update Secript         \033[97m║║  Tanggal: \033[96m{current_date}\033[97m   ║")
+    print(f"║\033[97m   [7]\033[92m Keluar                 \033[97m║║  Jam: \033[96m{current_time}\033[97m\033[93m {waktu}\033[97m   ║")
     print("╚══════════════════════════════╝╚════════════════════════╝")
 
 def main():
@@ -249,17 +251,19 @@ def main():
         choice = input("\033[1m\033[97m    [•] Enter your choice:\033[92m ")
         if choice == '1':
             menu_fpt()
-        elif choice == '2':
+        elif choice == '3':
             check_data()
             input("\033[1m    [•] \033[93mPress \033[92mEnter\033[93m to continue...\033[93m")
-        elif choice == '3':
+        elif choice == '4':
             delete_data()
             input("\033[1m    [•] \033[93mPress \033[92mEnter\033[93m to continue...\033[97m")
-        elif choice == '4':
-            menu_utama()
+        elif choice == '2':
+
         elif choice == '5':
-            update()
+            menu_utama()
         elif choice == '6':
+            update()
+        elif choice == '7':
             print("\033[1m\033[97m    [•]\033[91m\033[1m Exit Program...\033[97m")
             print()
             break
